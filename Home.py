@@ -13,6 +13,7 @@ st.markdown("""
                 padding-bottom: 0rem;
                 padding-left: 0.1rem;
                 padding-right: 0.1rem;
+                c
             }
         </style>
     """, unsafe_allow_html=True)
@@ -20,10 +21,10 @@ st.markdown("""
 components_html = """
         <html>
         <head>
-            <title>Welcome to Disease Detection</title>
+            <title style="background-color:white;">Welcome to Disease Detection</title>
             <!-- Your CSS styles go here -->
         </head>
-        <body>
+        <body style="background-color:white;">
             <div class='header'>
                 <h1>Welcome to Disease Detection</h1>
                 <p>Your Health, Our Priority</p>
