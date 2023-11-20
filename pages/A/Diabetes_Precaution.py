@@ -26,12 +26,11 @@ def diabetesInfo() :
     <style>
     p {
     font-size: 30px;
-    background-color:white;
+    text-align: justify;
     }
 
     li {
     font-size: 25px;
-   background-color:white;
     }
 
     </style>
@@ -48,7 +47,7 @@ def diabetesInfo() :
     </head>
     <body>
 
-        <p style="background-color:white;">Precautions for diabetes patients are essential to help manage their condition and maintain overall health. It's important to note that I'm not a doctor, so you should always consult with a healthcare professional for personalized advice and guidance. However, here are some general precautions and tips for managing diabetes:</p>
+        <p>Precautions for diabetes patients are essential to help manage their condition and maintain overall health. It's important to note that I'm not a doctor, so you should always consult with a healthcare professional for personalized advice and guidance. However, here are some general precautions and tips for managing diabetes:</p>
         <div class="column">
         
             <body>
