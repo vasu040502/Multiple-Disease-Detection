@@ -56,7 +56,6 @@ st.markdown("""
                     font-family: 'Times New Roman', Times, serif;
                 }
                 label {
-                    color: #000000;   /* Adjust the color as needed */
                     font-weight: bold; /* Make the text bold */
                     font-size: 200rem;  /* Adjust the font size as needed */
                     font-family: 'Times New Roman', Times, serif;
