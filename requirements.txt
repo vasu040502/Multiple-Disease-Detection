@@ -1,4 +1,4 @@
+opencv-python
 streamlit
 streamlit_option_menu
-opencv-python
 numpy
