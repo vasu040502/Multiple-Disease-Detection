@@ -1,2 +1,5 @@
 streamlit
 streamlit_option_menu
+opencv-python
+pickle
+numpy
