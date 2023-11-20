@@ -13,7 +13,7 @@ st.markdown("""
                 padding-bottom: 0rem;
                 padding-left: 0.1rem;
                 padding-right: 0.1rem;
-                c
+                background-color:white;
             }
         </style>
     """, unsafe_allow_html=True)
