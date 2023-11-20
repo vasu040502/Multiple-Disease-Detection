@@ -43,25 +43,29 @@ st.markdown("""
                     padding-bottom: 0rem;
                     padding-left: 0.1rem;
                     padding-right: 0.1rem;
+                    background-color:white;
                 }
                 section{
                     padding-top: 2rem;
                     padding-bottom: 0rem;
                     padding-left: -10rem;
                     padding-right: -10.1rem;
+                    background-color:white;
                 }
                 p {
                     font-weight: bold; /* Make the text bold */
+                    background-color:white;
                     font-size: 20px;  /* Adjust the font size as needed */
                     font-family: 'Times New Roman', Times, serif;
                 }
                 label {
+                    background-color:white;
                     font-weight: bold; /* Make the text bold */
                     font-size: 200rem;  /* Adjust the font size as needed */
                     font-family: 'Times New Roman', Times, serif;
                 }
                 span{
-                    
+                    background-color:white;
                     font-family: 'Times New Roman', Times, serif;
                 }
         </style>
