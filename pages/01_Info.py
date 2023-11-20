@@ -100,7 +100,7 @@ if disease_selection in disease_info:
 # ...
 
 html_code = """
-<a href='~/+/Main' target='_parent'>
+<a href='Main' target='_parent'>
   <button id="myButton" style="background-color: #0074CC; color: white; padding: 10px 20px; border: none; border-radius: 12px; cursor: pointer; width: 100%;">Detect Disease</button>
 </a>
 """
