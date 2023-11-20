@@ -15,6 +15,7 @@ st.markdown("""
                     padding-left: 0.1rem;
                     padding-right: 0.1rem;
                     margin-top: -10px;
+		    background-color:white;
                 }
                 .center {
                     display: flex;
@@ -93,7 +94,7 @@ if disease_selection in disease_info:
     col1, col2 = st.columns(2)
     with col1:
         # Use style attribute to set max-width
-        components.html(f'<div style="font-size: 20px; max-height:100px;max-width:100%;text-align: justify;margin-top:-25px;">{description}</div>',height=355)
+        components.html(f'<div style="font-size: 20px; max-height:100px;max-width:100%;text-align: justify;margin-top:-25px;background-color:white;">{description}</div>',height=355)
     with col2:
         st.image(image_url,width=390)
 
