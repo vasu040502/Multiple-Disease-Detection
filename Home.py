@@ -31,7 +31,7 @@ components_html = """
             <div class='container'>
                 <h2>What We Offer</h2>
                 <p>We provide advanced disease detection solutions to help you stay healthy and informed. Our platform offers early detection for diseases like <b>Diabetes, Heart & Lung Cancer</b></p>
-                <a href='~/+/Info' target='_parent'>
+                <a href='Info' target='_parent'>
                     <button id="myButton" style="background-color: #0074CC; color: white; padding: 10px 10px; border: none; border-radius: 12px; cursor: pointer; width: 30%;">Get Started</button>
                 </a>
             </div>
