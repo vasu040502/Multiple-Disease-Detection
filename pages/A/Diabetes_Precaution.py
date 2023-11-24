@@ -116,6 +116,3 @@ def diabetesInfo() :
 
     """,height=1250
     )
-        
-        
-diabetesInfo()
