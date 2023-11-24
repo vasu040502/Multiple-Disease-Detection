@@ -136,7 +136,6 @@ if selected == 'Diabetes Detection':
                         st.write(f"- Diabetes Pedigree Function: {DiabetesPedigreeFunction}")
                         st.write(f"- Age of the Person: {Age} years")
                         st.success(result)
-                        diabetes_precaution.diabetesInfo()
             else:
                 st.error("All input fields should be numeric, float, or decimal values.")
 
